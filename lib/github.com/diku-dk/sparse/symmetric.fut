@@ -1,4 +1,3 @@
-import "triangular"
 import "element"
 
 module type symmetric_matrix = {
